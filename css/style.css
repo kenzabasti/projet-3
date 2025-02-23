@@ -1,0 +1,8 @@
+.yellow-ligne{
+    background-color: rgb(255, 162, 0);
+    height: 5px;
+}
+.black-ligne{
+    background-color: black;
+    height: 30px;
+}
