@@ -6,3 +6,12 @@
     background-color: black;
     height: 30px;
 }
+.red-line{
+    background-color: red;
+    height: 2px;
+}
+.card{
+    background-color: rgb(235, 228, 155) !important;
+    border: none;
+    border-radius: 8px !important;
+}
